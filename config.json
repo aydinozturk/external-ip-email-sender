@@ -1,0 +1,11 @@
+{
+  "host": "smtp.gmail.com",
+  "port": 465,
+  "ssl": true,
+  "user_authentication": true,
+  "user": "ipsender3311555@gmail.com",
+  "pass": "h9KQLxETNUx4EV84",
+  "to": "aydinozturk41@gmail.com",
+  "subject": "Testing!",
+  "body": "IP Address of the machine is #IP#"
+}
